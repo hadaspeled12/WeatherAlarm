@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="rain10">#1100ff</color>
+    <color name="rain09">#003cff</color>
+    <color name="rain08">#005eff</color>
+    <color name="rain07">#0073ff</color>
+    <color name="rain06">#008cff</color>
+    <color name="rain05">#00aaff</color>
+    <color name="rain04">#00bfff</color>
+    <color name="rain03">#00d4ff</color>
+    <color name="rain02">#00e6ff</color>
+    <color name="rain01">#00fff2</color>
+
+    <color name="hail">#4d00c9</color>
+
+    <color name="snow10">#ff005e</color>
+    <color name="snow09">#ff007b</color>
+    <color name="snow08">#ff00a1</color>
+    <color name="snow07">#ff00c3</color>
+    <color name="snow06">#ff00e5</color>
+    <color name="snow05">#f200ff</color>
+    <color name="snow04">#d000ff</color>
+    <color name="snow03">#ae00ff</color>
+    <color name="snow02">#9500ff</color>
+    <color name="snow01">#7b00ff</color>
+
+    <color name="clouds04">#04ff00</color>
+    <color name="clouds03">#00ff2f</color>
+    <color name="clouds02">#00ff59</color>
+    <color name="clouds01">#00ff84</color>
+
+    <color name="clear">#fffb00</color>
+
+</resources>

@@ -1,0 +1,39 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">WeatherAlarm</string>
+
+    <string name="pref_sunday">Sunday</string>
+    <string name="pref_monday">Monday</string>
+    <string name="pref_tuesday">Tuesday</string>
+    <string name="pref_wednesday">Wednesday</string>
+    <string name="pref_thursday">Thursday</string>
+    <string name="pref_friday">Friday</string>
+    <string name="pref_saturday">Saturday</string>
+
+    <string name="menu_item_set_alarm">Set alarm</string>
+    <string name="menu_item_edit_alarm">Edit alarm</string>
+    <string name="pref_hours_default">00</string>
+    <string name="pref_hours_title">Hour</string>
+    <string name="pref_hours_key">hour</string>
+    <string name="pref_minutes_default">00</string>
+    <string name="pref_minutes_title">Minutes</string>
+    <string name="pref_minutes_key">minutes</string>
+    <string name="pref_days_key">days</string>
+    <string name="pref_days_title">Days</string>
+    <string name="pref_on_switch_key">on_switch</string>
+    <string name="pref_on_switch_title">Set alarm</string>
+    <string name="pref_on_switch_summary_on">ON</string>
+    <string name="pref_on_switch_summary_off">OFF</string>
+
+
+
+    <string name="something_went_wrong">something went wrong</string>
+
+    <!-- The format of the notification we show when the weather is updated -->
+    <string name="format_notification">
+        Rain:<xliff:g id="rain">%1$s</xliff:g> -
+        Snow:<xliff:g id="snow">%2$s</xliff:g>
+        Hail:<xliff:g id="hail">%3$s</xliff:g>
+    </string>
+    <string name="timePrefA_title">timePrefA</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <MultiSelectListPreference
+        android:defaultValue="@array/pref_days_options"
+        android:entries="@array/pref_days_options"
+        android:entryValues="@array/pref_days_options"
+        android:key="@string/pref_days_key"
+        android:title="@string/pref_days_title"/>
+
+    <SwitchPreference
+        android:defaultValue="@bool/show_notifications_by_default"
+        android:key="@string/pref_on_switch_key"
+        android:title="@string/pref_on_switch_title"
+        android:summaryOn="@string/pref_on_switch_summary_on"
+        android:summaryOff="@string/pref_on_switch_summary_off"/>
+
+    <com.example.hadasp.weather03.utilities.TimePreference
+        android:key="key4"
+        android:title="Time Preference"
+        android:summary="Time Summary"
+        android:defaultValue="90" />
+
+
+</PreferenceScreen>
